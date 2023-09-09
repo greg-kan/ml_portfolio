@@ -18,6 +18,7 @@
 - 12. nucleus_detection - Сегментация изображений (Keras, Convolutional Networks)
 - 13. reinforsement_simple - Простые зачачи Reinforsement learning (Frozen Lake, Cartpole, Ping Pong)
 - 14. autoencoders_gan_vae - Автоенкодеры (GAN, VAE)
+- 15. graphs_theory_methods - Построение рекомендательных систем методами Теории Графов
 
 Содержимое находится в процессе разработки.
 
@@ -41,5 +42,6 @@ This repository contains pet projects completed in the process of learning ML / 
 - 12. nucleus_detection - Image Segmentation (Keras, Convolutional Networks)
 - 13. reinforsement_simple - Reinforsement learning, simple tasks (Frozen Lake, Cartpole, Ping Pong)
 - 14. autoencoders_gan_vae - Autoencoders (GAN, VAE)
+- 15. graphs_theory_methods - Construction of recommender systems using Graph Theory methods
 
 Content is under construction.
