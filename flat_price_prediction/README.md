@@ -14,7 +14,7 @@
 
 @EN
 
-The project "flat_price_prediction" consists of two parts:
+"flat_price_prediction" project consists of two parts:
 1. The krisha.kz web site parsing in order to extract the dataset.
 2. Building the model for predicting the cost of apartments.
 
