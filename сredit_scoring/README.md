@@ -1,19 +1,16 @@
-# Проект 4. Компьютер говорит «Нет»
-## Юнит 4. Основные алгоритмы машинного обучения. Часть I.
-### skillfactory_rds  
+# Кредитный скоринг: предсказание вероятности дефолта клиента
+
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
 
 ## Оглавление  
-[1. Описание модуля](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Описание-модуля)  
+[1. Описание проекта](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Этапы-работы-над-проектом)  
 [4. Результат](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Результат)  
 
-### Описание модуля  
-В этом модуле были изучены основные алгоритмы ML, такие как Линейная и Логистическая регрессии и рассмотрено использование метрик качества (ROC-AUC, F1, Acuracy, ...).
-Данный проект является результатом прохождения модуля.
-
+### Описание проекта  
+Кредитный скоринг (Логистическая регрессия)
 :arrow_up:[к оглавлению](https://github.com/greg-kan/skillfactory_rds/blob/master/module_4/README.md#Оглавление)
 
 ### Какой кейс решаем?
