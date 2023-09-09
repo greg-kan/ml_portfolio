@@ -25,7 +25,7 @@
 
 @EN
 
-The repository contains pet projects completed in the process of learning ML / DL.
+This repository contains pet projects completed in the process of learning ML / DL.
 
 - 1. flat_price_prediction - krisha.kz site parsing. Building the model for predicting the cost of apartments.
 - 2. exploratory_data_analysis - Exploratory Data Analysis (EDA). (Just EDA on some Dataset)
