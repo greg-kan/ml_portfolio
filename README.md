@@ -4,7 +4,7 @@
 
 Репозиторий содержит pet проекты, выполненные в процессе изучения ML / DL.
 
-- 1. flat_price_prediction - Парсинг сайта krisha.kz и построение модели для прогнозирования стоимости квартир.
+- 1. flat_price_prediction - Парсинг сайта krisha.kz и построение модели для прогнозирования стоимости квартир. (Random Forest, Torch).
 - 2. exploratory_data_analysis - Разведывательный анализ данных (Exploratory Data Analysis, EDA). (Пример EDA на тренировочном Dataset'е).
 - 3. restaurant_rating_prediction - Предсказание рейтинга ресторана (Генерация новых признаков и Random Forest regression).
 - 4. сredit_scoring - Кредитный скоринг (Классификация на базе логистической регрессии).
@@ -28,7 +28,7 @@
 
 This repository contains pet projects completed in the process of learning ML / DL.
 
-- 1. flat_price_prediction - krisha.kz site parsing. Building the model for predicting the cost of apartments.
+- 1. flat_price_prediction - krisha.kz site parsing. Building the model for predicting the cost of apartments. (Random Forest, Torch).
 - 2. exploratory_data_analysis - Exploratory Data Analysis (EDA). (Just EDA on some Dataset)
 - 3. restaurant_rating_prediction - Restaurant rating prediction (Feature Ingenering and Random Forest regression).
 - 4. сredit_scoring - Credit scoring (Classification on Logistic Regression).
